@@ -1,5 +1,5 @@
-## TUB
-Compilation of codes from my Master's Course in TU Berlin
+# Technical University of Berlin
+## Compilation of codes from my Electrical Engineering Master's Course in TU Berlin
 - Computer Modeling, Simulation, and Control of Renewable Energy Systems by Prof. Kai Strunz
 - Renewable Energy Technology by Prof. Kai Strunz
 - Einführung in die Informatik Klausur by Prof. Klaus Obermeyer
