@@ -4,5 +4,6 @@
 - Renewable Energy Technology by Prof. Kai Strunz
 - Einführung in die Informatik Klausur by Prof. Klaus Obermeyer
 - Machine Intelligence II: Unsupervised Methods by Prof. Klaus Obermeyer
-- Nonlinear Control Systems by Thomas Schauer
 - Probabilistic and Bayesian Modelling in ML and AI by Prof. Manfred Opper
+- Nonlinear Control Systems by Thomas Schauer
+- Systemidentifikation und Regelung in der Medizin by Thomas Schauer
