@@ -7,4 +7,4 @@
 - Probabilistic and Bayesian Modelling in ML and AI by Prof. Manfred Opper
 - Nonlinear Control Systems by Thomas Schauer
 - Systemidentifikation und Regelung in der Medizin by Thomas Schauer
-- Discrete Event Systems by Jörg Raisch
+- Discrete Event Systems by ProfJörg Raisch
